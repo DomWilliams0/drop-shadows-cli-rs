@@ -5,3 +5,4 @@ authors = ["Dom Williams <me@domwillia.ms>"]
 
 [dependencies]
 drop_shadows = { path = "../drop_shadows" }
+clap = "2.24.2"
